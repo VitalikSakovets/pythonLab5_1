@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f2c4d4cb-68ec-4f95-b8c8-49f3e60a83c2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../pythonDB/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1/.idea/pythonLab1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab10_11/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1_1/.idea/pythonLab1_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1_2/.idea/pythonLab1_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1_3/.idea/pythonLab1_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1_4/.idea/pythonLab1_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab1_5/.idea/pythonLab1_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab2_1/.idea/pythonLab2_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab2_2/.idea/pythonLab2_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab2_3/.idea/pythonLab2_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab2_4/.idea/pythonLab2_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab2_5/.idea/pythonLab2_5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab3_1/.idea/pythonLab3_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab3_2/.idea/pythonLab3_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab3_3/.idea/pythonLab3_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab3_4/.idea/pythonLab3_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab3_6/.idea/pythonLab3_6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_1/.idea/pythonLab4_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_1_1/.idea/pythonLab4_1_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_2/.idea/pythonLab4_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_2_2/.idea/pythonLab4_2_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_2_3/.idea/pythonLab4_2_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab4_3/.idea/pythonLab4_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_1/.idea/pythonLab5_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_2/.idea/pythonLab5_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_3/.idea/pythonLab5_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/pythonLab5_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab5_4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonLab6_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/pythonLab7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_1/.idea/pythonLab8_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_1/printing_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/pythonLab8_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/file2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_3/.idea/pythonLab8_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab8_3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_1/.idea/pythonLab9_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_1/numbers.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_2/.idea/pythonLab9_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_2/file1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_2/file2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_2/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/pythonLab9_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonLab9_3/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject2/.idea/pythonProject2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject3/.idea/pythonProject3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../shopbydjango2023/.idea/shopbydjango2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonLab5_3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../pythonLab5_3/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2PIdO7amsgcihOKeSAM4n5Jf05l" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/asus/PycharmProjects/pythonLab8_1"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonLab6_1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f2c4d4cb-68ec-4f95-b8c8-49f3e60a83c2" name="Changes" comment="" />
+      <created>1683148494512</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1683148494512</updated>
+    </task>
+    <servers />
+  </component>
+</project>
